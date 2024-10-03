@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Full stack developer in React</h3>
 <img align="right" width="50%" style="margin-left:10px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- I am currently developing my new project, SaaS-PDF-Superpower-AI - [full-stack-project](https://github.com/everEvergolw/SaaS-PDF-Superpower-AI)](https://github.com/everEvergolw/SaaS-PDF-Superpower-AI))
+- I am currently developing my new project, [SaaS-PDF-Superpower-AI - full-stack-project](https://github.com/everEvergolw/SaaS-PDF-Superpower-AI)
+
 
 - 🌱 I’m currently learning **NextJs**
 
